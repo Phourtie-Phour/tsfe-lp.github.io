@@ -2,7 +2,7 @@
 
 # Overview
 
-This landing page was developed at my previous company for a sensory-friendly seamless socks product.
+This landing page was developed at my previous company for an employment support service.
 It emphasizes accessibility, clarity, and a responsive layout across devices.
 
 # My Responsibilities
