@@ -19,7 +19,9 @@ It emphasizes accessibility, clarity, and a responsive layout across devices.
 
 # Key Points
 - Focused on readability and accessibility for users with sensory sensitivities
+
 - Built a clean and consistent layout while maintaining design accuracy
+
 - Adapted design to real-world implementation constraints
 
 # Challenges & Approach
